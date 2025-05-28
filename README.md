@@ -19,7 +19,8 @@ git clone https://github.com/maliMirkec/autostopify.git
 3. Click Load unpacked
 4. Select the cloned autostopify folder
 
-📂 Structure
+## 📂 Structure
+
 - background.js – Listens to tab events
 - content.js – Controls playback in the Spotify tab
 - popup.js – Handles logic for enabling/disabling the functionality
