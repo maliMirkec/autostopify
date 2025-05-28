@@ -12,6 +12,7 @@ Clone the repo and load it into Chrome manually:
 
 ```bash
 git clone https://github.com/maliMirkec/autostopify.git
+```
 
 1. Open chrome://extensions/
 2. Enable Developer mode
